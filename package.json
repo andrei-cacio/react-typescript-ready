@@ -1,0 +1,25 @@
+{
+  "name": "react-typescript-ready",
+  "version": "0.0.1",
+  "description": "A typescript boilerplate",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm t",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrei-cacio/react-typescript-ready.git"
+  },
+  "author": "Andrei Cacio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrei-cacio/react-typescript-ready/issues"
+  },
+  "homepage": "https://github.com/andrei-cacio/react-typescript-ready#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.4.1",
+    "typescript": "^2.7.1",
+    "webpack": "^3.11.0"
+  }
+}
